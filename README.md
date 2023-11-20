@@ -43,7 +43,7 @@ http://localhost:8010/
 ```bash
 $ docker compose exec app bash
 ```
-
+ 
 パッケージマネージャ（composer, npm）はコンテナにインストール済みなので、ライブラリなどは必要に応じてインストールしてください。
 
 ### 3. stop
